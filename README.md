@@ -191,4 +191,4 @@ Dot product v1 and v2: 12.2
 
 # Author
 ***Artemenko Maksim ,11IPZ ,student UDU Dragomanova***
-![shpioniro golubino](https://imgur.com/a/O50odec)
+![shpioniro golubino](<a href="https://imgbb.com/"><img src="https://i.ibb.co/nsRvZ3M2/o-YQBIq3x-LBAn-ARmg-WAi0i-Iz-L3-Cc-Ad-A99-Ebfzoi.gif" alt="o-YQBIq3x-LBAn-ARmg-WAi0i-Iz-L3-Cc-Ad-A99-Ebfzoi" border="0"></a>)
