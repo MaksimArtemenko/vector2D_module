@@ -17,12 +17,6 @@ The `Vector2D` module allows you to create objects representing 2D vectors and p
 
 ---
 
-##  How to Use
-
-###  Import the module or copy the code into your project
-```python
-from vector2d import Vector2D  
-```
 ## Instructions for Methods
 1. ## Vector Initialization
 ```py
