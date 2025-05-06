@@ -99,8 +99,8 @@ v1 + v2: Vector(4.4, 6.0)
 **How to use**:
 Use the ```-``` operator between two Vector2D instances.
 ```py
-    v1 = Vector2D(3, 4)
-    v2 = Vector2D(1.4, 2)
+    v1 = Vector(3, 4)
+    v2 = Vector(1.4, 2)
     print("v1 - v2:", v1 - v2)
 ```
 ### Output:
@@ -166,8 +166,8 @@ Call ```.dot_product()``` and pass another Vector2D object as an argument.
 
 **Example**:
 ```py
-v1 = Vector2D(3, 4)
-v2 = Vector2D(1.4, 2)
+v1 = Vector(3, 4)
+v2 = Vector(1.4, 2)
 print("Dot product v1 and v2:", v1.dot_product(v2))
 ```
 ## Output: 
